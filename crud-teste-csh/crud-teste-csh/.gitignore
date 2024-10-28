@@ -1,0 +1,10 @@
+# Ignorar a pasta .vs
+.vs/
+
+# Ignorar arquivos binários e pastas temporárias
+bin/
+obj/
+
+# Ignorar arquivos de backup e temporários
+*.tmp
+*.bak
